@@ -4,5 +4,3 @@ class PagesController < ApplicationController
   def home
   end
 end
-# comment
-# as comment
